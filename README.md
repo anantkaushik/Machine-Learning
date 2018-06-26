@@ -3,5 +3,5 @@
 Topics covered:
 
 - [x] [Data Preprocessing](Data-Preprocessing/data-preprocessing-template.py)
-- [x] [Regression] (Regression/)
-    - [x] [Simple Linear Regression] (Regression/Simple-Linear-Regression/simple_linear_regression.py)
+- [x] [Regression] (Regression/Simple-Linear-Regression/simple_linear_regression.py)
+    - [x] Simple Linear Regression

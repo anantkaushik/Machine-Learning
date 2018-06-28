@@ -24,7 +24,8 @@ plt.plot(x_train, regressor.predict(x_train), color = 'blue')
 plt.title("Salary vs Experience (Training Set)")
 plt.xlabel("Years of Experience")
 plt.ylabel("Salary")
-plt.savefig("training_set_result.png")
+plt.savefig("training_set_result.png") #Save the image of the graph
+#plt.show() # Display the graph in the new window
 
 # Visualising the Test set results
 plt.scatter(x_test, y_test, color = 'red')
@@ -32,4 +33,5 @@ plt.plot(x_train, regressor.predict(x_train), color = 'blue')
 plt.title("Salary vs Experience (Test Set)")
 plt.xlabel("Years of Experience")
 plt.ylabel("Salary")
-plt.savefig("test_set_result.png")
+plt.savefig("test_set_result.png") #Save the image of the graph
+#plt.show() # Display the graph in the new window
